@@ -1,0 +1,19 @@
+{
+    "display": {
+        "title": "MMO NPCS Quests",
+        "description": "",
+
+        "icon": {
+            "item": "minecraft:writable_book"
+        },
+
+        "background": "minecraft:textures/block/stone_bricks.png",
+        "announce_to_chat": false
+    },
+
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:location"
+        }
+    }
+}

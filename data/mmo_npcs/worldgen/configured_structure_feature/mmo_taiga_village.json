@@ -1,0 +1,7 @@
+{
+  "config": {
+    "start_pool": "mmo_npcs:birch_forest/village/paths/center",
+    "size": 7
+  },
+  "type": "minecraft:village"
+}

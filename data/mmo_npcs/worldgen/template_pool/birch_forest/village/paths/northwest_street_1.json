@@ -1,0 +1,15 @@
+{
+  "fallback": "minecraft:empty",
+  "name": "mmo_npcs:birch_forest/village/paths/northwest_street_1",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "mmo_npcs:birch_forest/village/paths/northwest_street_1",
+        "processors": "minecraft:mossify_20_percent",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

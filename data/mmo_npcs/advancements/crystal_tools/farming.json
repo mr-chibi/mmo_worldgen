@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": "Auto Growth",
+        "description": [{"text": "1. Recieve Crystal Tools Advancement  \n\n", "color": "#ffffff"}, {"text": "2. Hold a Crystal hoe in your mainhand & stand on wheat crops.", "color": "#ffffff"}],
+
+        "icon": {
+            "item": "minecraft:bone_meal"
+        }
+    },
+
+    "parent": "mmo_npcs:crystal_tools/tools",
+
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:impossible"
+        },
+
+        "trigger_2": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+
+    "requirements": [["trigger_1"], ["trigger_2"]]
+}

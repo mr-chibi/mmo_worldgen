@@ -79,7 +79,7 @@
   
   "starts": [
     "minecraft:mineshaft",
-    "mmo_npcs:mmo_taiga_village"
+    "mmo_worldgen:mmo_taiga_village"
   ],
 
   "spawners": {

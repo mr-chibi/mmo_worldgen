@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": "Creeper Slayer",
+        "description": [{"text": "1. Recieve Hunter Skeleton Advancement! \n\n", "color": "#ffffff"}, {"text": "2. Kill 500 Creepers.", "color": "#ffffff"}],
+
+        "icon": {
+            "item": "minecraft:creeper_head"
+        },
+
+        "frame": "challenge"
+    },
+
+    "parent": "mmo_worldgen:hunter/skeleton",
+
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:impossible"
+        },
+
+        "trigger_2": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+
+    "requirements": [["trigger_1"], ["trigger_2"]]
+}

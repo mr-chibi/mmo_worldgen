@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": "Zombie Slayer",
+        "description": [{"text": "1. Recieve Basics Advancement! \n\n", "color": "#ffffff"}, {"text": "2. Kill 500 zombies.", "color": "#ffffff"}],
+
+        "icon": {
+            "item": "minecraft:zombie_head"
+        },
+
+        "frame": "challenge"
+    },
+
+    "parent": "mmo_worldgen:basics",
+
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:impossible"
+        },
+
+        "trigger_2": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+
+    "requirements": [["trigger_1"], ["trigger_2"]]
+}

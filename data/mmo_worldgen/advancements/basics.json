@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": "Quests MMO - Basics",
+        "description": [{"text": "1. Recieve MMO NPC Quest Advancement! \n\n", "color": "#ffffff"}, {"text": "2. Kill any entity.", "color": "#ffffff"}],
+
+        "icon": {
+            "item": "minecraft:wooden_sword"
+        }
+    },
+
+    "parent": "mmo_worldgen:root",
+
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:player_killed_entity"
+        },
+
+        "trigger_2": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+
+    "requirements": [["trigger_1"], ["trigger_2"]]
+}

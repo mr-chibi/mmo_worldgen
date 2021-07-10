@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": "Woodcutting TreeFaller",
+        "description": [{"text": "1. Recieve Basics Advancement! \n\n", "color": "#ffffff"}, {"text": "2. Level woodcutting up to level 30! To unlock TreeFaller.", "color": "#ffffff"}],
+
+        "icon": {
+            "item": "minecraft:iron_axe"
+        },
+
+        "frame": "challenge"
+    },
+
+    "parent": "mmo_worldgen:woodcutting/lvl10",
+
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:impossible"
+        },
+
+        "trigger_2": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+
+    "requirements": [["trigger_1"], ["trigger_2"]]
+}

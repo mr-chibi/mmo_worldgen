@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": "Mining AutoSmelting",
+        "description": [{"text": "1. Recieve Basics Advancement! \n\n", "color": "#ffffff"}, {"text": "2. Level mining up to level 30! To unlock AutoSmelting.", "color": "#ffffff"}],
+
+        "icon": {
+            "item": "minecraft:iron_pickaxe"
+        },
+
+        "frame": "challenge"
+    },
+
+    "parent": "mmo_worldgen:mining/lvl10",
+
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:impossible"
+        },
+
+        "trigger_2": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+
+    "requirements": [["trigger_1"], ["trigger_2"]]
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": "Crystal Tools",
+        "description": [{"text": "1. Recieve Basics Advancement! \n\n", "color": "#ffffff"}, {"text": "2. Kill a \"Zombie\", \"Skeleton\", or \"Creeper\", to recieve Crystal Tool.", "color": "#ffffff"}],
+
+        "icon": {
+            "item": "minecraft:iron_pickaxe"
+        },
+
+        "frame": "challenge"
+    },
+
+    "parent": "mmo_worldgen:basics",
+
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:impossible"
+        },
+
+        "trigger_2": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+
+    "requirements": [["trigger_1"], ["trigger_2"]]
+}

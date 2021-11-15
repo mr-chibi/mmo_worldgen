@@ -1,0 +1,15 @@
+{
+  "fallback": "minecraft:empty",
+  "name": "mmo_worldgen:taiga/village/paths/north_2",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "mmo_worldgen:taiga/village/paths/north_2",
+        "processors": "minecraft:empty",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

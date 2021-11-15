@@ -1,0 +1,15 @@
+{
+  "fallback": "minecraft:empty",
+  "name": "mmo_worldgen:plains/village/buildings/house_2",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "mmo_worldgen:plains/village/buildings/house_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

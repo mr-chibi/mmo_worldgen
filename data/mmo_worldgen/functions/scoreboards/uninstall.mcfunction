@@ -1,7 +1,4 @@
 #
-scoreboard players reset mmo_worldgen mmo_addon
-
-#
 scoreboard objectives remove ts_player
 scoreboard objectives remove ts_creeper
 

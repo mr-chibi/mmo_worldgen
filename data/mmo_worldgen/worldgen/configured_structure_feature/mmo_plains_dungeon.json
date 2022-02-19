@@ -1,7 +1,0 @@
-{
-  "config": {
-    "start_pool": "mmo_worldgen:plains/dungeon/enterance",
-    "size": 7
-  },
-  "type": "minecraft:pillager_outpost"
-}

@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "mmo_worldgen:birch_village",
+      "weight": 3
+    },
+
+    {
+      "structure": "mmo_worldgen:birch_dungeon",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "salt": 10387312,
+    "spacing": 34,
+    "separation": 8,
+    "type": "minecraft:random_spread"
+  }
+}

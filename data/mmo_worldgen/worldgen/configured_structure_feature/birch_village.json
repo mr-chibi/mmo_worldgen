@@ -3,5 +3,8 @@
     "start_pool": "mmo_worldgen:plains/village/paths/center",
     "size": 7
   },
+  "biomes": "#mmo_worldgen:has_structure/birch",
+  "adapt_noise": true,
+  "spawn_overrides": {},
   "type": "minecraft:village"
 }

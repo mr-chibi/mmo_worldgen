@@ -1,0 +1,15 @@
+{
+  "fallback": "minecraft:empty",
+  "name": "mmo_worldgen:flower_forest/village/paths/west_1",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "mmo_worldgen:flower_forest/village/paths/west_1",
+        "processors": "minecraft:empty",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

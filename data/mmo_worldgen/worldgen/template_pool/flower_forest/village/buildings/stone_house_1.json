@@ -1,11 +1,11 @@
 {
   "fallback": "minecraft:empty",
-  "name": "mmo_worldgen:plains/dungeon/enterance",
+  "name": "mmo_worldgen:flower_forest/village/buildings/stone_house_1",
   "elements": [
     {
       "weight": 5,
       "element": {
-        "location": "mmo_worldgen:plains/dungeon/enterance",
+        "location": "mmo_worldgen:flower_forest/village/buildings/stone_house_1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:legacy_single_pool_element"

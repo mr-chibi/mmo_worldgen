@@ -1,8 +1,8 @@
 {
   "structures": [
     {
-      "structure": "mmo_worldgen:birch_village",
-      "weight": 3
+      "structure": "mmo_worldgen:flower_forest_village",
+      "weight": 1
     }
   ],
   "placement": {
